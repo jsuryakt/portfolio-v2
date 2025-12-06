@@ -41,7 +41,7 @@ export default function Contact() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
             href="mailto:hello@suryakumar.com"
-            className="px-8 py-3 rounded-full bg-gradient-to-r from-primary to-secondary text-primary-foreground font-medium hover:shadow-lg hover:shadow-primary/50 transition-all hover:scale-105 active:scale-95"
+            className="px-8 py-3 rounded-full bg-primary text-primary-foreground font-medium hover:shadow-lg hover:shadow-primary/50 transition-all hover:scale-105 active:scale-95"
           >
             Send me an email
           </Link>
